@@ -1,0 +1,15 @@
+{
+  "name": "ppiian-utils",
+  "version": "1.0.3",
+  "description": "this is ppiian utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies":{
+    "iview-weapp": "^2.0.0",
+    "flyio": "^0.6.14"
+  },
+  "author": "ppiian",
+  "license": "ISC"
+}
