@@ -4,15 +4,10 @@
 
 ## Installation
 
-In a browser:
-```html
-<script src="lodash.js"></script>
-```
-
 Using npm:
 ```shell
-$ npm i -g npm
-$ npm i lodash
+$ npm i -g ppiian-utils
+$ npm i ppiian-utils
 ```
 Note: add --save if you are using npm < 5.0.0
 
