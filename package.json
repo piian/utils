@@ -1,6 +1,6 @@
 {
   "name": "ppiian-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this is ppiian utils",
   "main": "index.js",
   "scripts": {
